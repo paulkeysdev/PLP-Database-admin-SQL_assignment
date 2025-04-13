@@ -72,5 +72,6 @@ Customization:
 Expand or modify tables and relationships to suit specific requirements.
 
 Add more roles and permissions as needed.
-![Image Alt] (https://github.com/paulkeysdev/PLP-Database-admin-SQL_assignment/blob/6e6bb6bf89f793878bebb285ef15c7d5ed53d0a8/ERD%20DATABASE.drawio.png)
+![image alt] (https://github.com/paulkeysdev/PLP-Database-admin-SQL_assignment/blob/6e6bb6bf89f793878bebb285ef15c7d5ed53d0a8/ERD%20DATABASE.drawio.png)
+![image alt](https://github.com/paulkeysdev/PLP-Database-admin-SQL_assignment/blob/6e6bb6bf89f793878bebb285ef15c7d5ed53d0a8/WhatsApp%20Image%202025-04-13%20at%2022.23.03.jpeg)
 
