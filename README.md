@@ -1,5 +1,5 @@
 ** **Bookstore Database (Boostore DB)** **
-** **Overview** **
+** **Overview** 
 The Boostore Database is designed to manage and organize information for a bookstore efficiently. It provides robust structures for managing books, authors, publishers, customers, and addresses, along with functionality for many-to-many relationships and database access control.
 ** **Features** **
 Manage books and their details such as genres, languages, and publishers.
@@ -62,13 +62,6 @@ Create the tables using the provided SQL scripts.
 
 Populate tables with sample data using INSERT statements.
 
-Access Control:
-
-Assign roles to users (Admin, Editor, Viewer) for managing access.
-
-Use queries to manage permissions effectively.
-
-Query Examples:
 
 Retrieve all books: SELECT * FROM Books;
 
